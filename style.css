@@ -1,0 +1,39 @@
+.heading{
+    font-size: 25px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px powderblue;
+}
+body{
+    font-family: fantasy;
+}            
+.heading_div{
+	float: none;
+	background: white;
+	padding: 10px;
+	border-radius: 20px;
+	color: plum;
+	box-shadow: 5px 5px 5px lavender;
+}
+.heading_div2{
+	font-size: 18px;
+}
+.result_para_tag{
+	box-shadow: 5px 5px 5px azure;
+	font-size: 20px;
+}
+.copy_right_footer{
+	position: fixed;
+	color: white;
+	bottom:0;
+	width: 100%;
+	background: rgb(175, 170, 170);
+	text-align: center;
+}
+canvas{
+	border:5px solid white;
+	 border-radius:20px; 
+	 box-shadow:5px 5px 5px rgb(204, 201, 201);
+	 margin-top: 300px;
+
+}
